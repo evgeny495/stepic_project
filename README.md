@@ -2,7 +2,7 @@
 
 Clone project:
 
-    git clone https://github.com/kovtunos/stepic_web_project.git web
+    git clone https://github.com/evgeny495/stepic_web_project.git web
 
 Local init:
 
